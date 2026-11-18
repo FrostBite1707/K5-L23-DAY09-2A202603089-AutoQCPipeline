@@ -1,18 +1,18 @@
 {
   "verdict": {
-    "decision": "Hold",
+    "decision": "Release",
     "n_errors": 0,
-    "n_warn_images": 38,
+    "n_warn_images": 16,
     "n_images": 202,
-    "warn_ratio": 0.1881,
+    "warn_ratio": 0.0792,
     "reasons": [
-      "Hold: 38/202 ảnh còn cảnh báo (18.8%), đạt ngưỡng 10.0%."
+      "Release: không còn lỗi bắt buộc; 16/202 ảnh còn cảnh báo (7.9%), dưới ngưỡng 10.0%."
     ]
   },
   "reviewed": 80,
   "budget": 80,
-  "seconds": 3.4,
+  "seconds": 8.6,
   "exported": "/home/azure/Lab/Day9/K5-L23-DAY09-2A202603089-AutoQCPipeline/submission/export/clean_v1",
-  "config_sha1": "931de84d25e796d472dab6b113df13bbd72ab195",
+  "config_sha1": "208d60ccd2aa94c247acb5e8c2afc61fff76914a",
   "review_sim_sha1": "7988ca22827f780a7043a2300490e679a1697154"
 }
